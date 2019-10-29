@@ -6,20 +6,17 @@
     border-radius: 0.90rem;
     background-color: rgba(10,23,55,0.9);
     
-    
-    
 }
 
 .my_login_form-control {
-    color:  #4B0082;
-    margin-top: 3em;
+    color:#1C1C1C;
+    margin-top: auto;
     margin-left: auto;
     margin-right: auto;
     display: block;
-    width: 70%;
+    width: 80%;
     padding: 0.375rem 0.75rem;
     font-size: 1rem;
-   
     line-height: 1.5;
     opacity: 0.9;
     background-color:#C0C0C0;
@@ -30,7 +27,7 @@
   }
 
   .my_form_group{ 
-    margin-bottom: 1rem;
+    margin-left: auto;
   }
 
  .my_login_background{
@@ -41,3 +38,33 @@
      background-color: #4B0082;
      
  }
+
+ .my_label_login{
+     margin-top:2em;
+     position: relative;
+     width: 100%;
+     text-align: center;
+     font-size: 25px;
+     color: white;
+ }
+
+ .my_btn_primary {
+    
+    background-color: #4B0082;
+    color: aliceblue;
+    border-color: #4B0082;
+    border-radius: 0.75rem;
+    font-size: 20px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    line-height: 20px;
+    width: 30%;
+  }
+
+  .my_btn{
+    text-align: center;
+    top:auto;
+    line-height: 100px;
+  }
