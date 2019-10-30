@@ -68,3 +68,11 @@
     top:auto;
     line-height: 100px;
   }
+
+.extra_padding {
+  padding: 10px;
+}
+
+#logo {
+  height: 30px;
+}
