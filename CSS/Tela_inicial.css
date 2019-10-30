@@ -1,0 +1,48 @@
+body{
+    
+}
+.my_square{
+    text-align: center;
+
+}
+
+.empty_div{
+    height: 10px;
+
+}
+
+#H1{
+    font-size: 20px;
+}
+
+.profile_icon{
+    background-image: url("../imgs/user_profile.png");
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.my_card{
+    
+    max-width: 80%;
+    background:gray;
+    border-radius: 0%;
+    margin:auto;
+    margin-top:5px;
+    margin-bottom: 5px;
+    border-radius: 0.90rem;
+    text-align: center;
+}
+
+.extra_padding {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+.My_Navbar{
+    background:purple;
+}
+
+.my_card-body {
+    padding: 10%;
+  }
