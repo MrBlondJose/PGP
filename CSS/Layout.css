@@ -1,0 +1,23 @@
+.My_Navbar{
+    background:#192b9e;
+}
+
+a{
+    color: azure;
+}
+
+.profile_icon{
+    background-image: url("../imgs/user_profile.png");
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.extra_padding {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+body{
+    background: #d1daff;
+}

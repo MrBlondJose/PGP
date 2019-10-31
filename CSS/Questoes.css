@@ -1,0 +1,46 @@
+
+  .my_question_card{
+    
+    max-width: 80%;
+    background:#d9d9d9;
+    border-radius: 90%;
+    margin:auto;
+    margin-top:2%;
+    border-radius: 0.9rem;
+
+    text-align: center;
+    
+    padding:3%;
+}
+
+.my_table{
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.my_tr{
+    
+}
+
+td{
+    width: 50%;
+    border: 1px  solid black;
+    
+}
+
+.checked {
+    color: orange;
+  }
+
+.button_table{
+    width: 80%;
+    text-align: center;
+    margin: 0 auto;
+    border:none;
+    margin-top: 100px;
+}
+
+.button_table td, .button_table td{
+    border:none;
+}

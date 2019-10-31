@@ -25,24 +25,24 @@ body{
 .my_card{
     
     max-width: 80%;
-    background:gray;
-    border-radius: 0%;
+    background:yellow;
+    border-radius: 90%;
     margin:auto;
-    margin-top:5px;
-    margin-bottom: 5px;
-    border-radius: 0.90rem;
+    margin-top:10px;
+    border-radius: 0.9rem;
+
     text-align: center;
+    
+    padding:0.5%
 }
 
 .extra_padding {
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 
-.My_Navbar{
-    background:purple;
-}
+
 
 .my_card-body {
-    padding: 10%;
+    padding: 5%;
   }

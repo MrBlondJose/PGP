@@ -35,7 +35,7 @@
      background-size: 55%;
      background-repeat: no-repeat;
      background-position: center;
-     background-color: #4B0082;
+     background-color: #192B9E;
      
  }
 
@@ -50,9 +50,9 @@
 
  .my_btn_primary {
     
-    background-color: #4B0082;
+    background-color: #192B9E;
     color: aliceblue;
-    border-color: #4B0082;
+    border-color: #192B9E;
     border-radius: 0.75rem;
     font-size: 20px;
     margin-top: auto;
